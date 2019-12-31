@@ -57,7 +57,7 @@ fork it to start your own. You are free to modify and use it for your own tools.
 
 You are free to write the code running inside the docker in the language you
 prefer. After you have your results from the tool, you should print them to the
-standard output in our **Result** format, one result per line.
+standard output in our **Result** format ([schema](schemas/output_schema.json)), one result per line. Example:
 
 ```json
 {
