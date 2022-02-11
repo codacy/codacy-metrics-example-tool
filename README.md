@@ -1,4 +1,4 @@
-# Codacy Example Metrics Tool
+# Codacy Metrics Example Tool
 
 Docker engine example for a codacy metrics tool
 
